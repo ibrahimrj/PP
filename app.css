@@ -1,0 +1,60 @@
+header {
+    background-color: rgb(68, 3, 61);
+}
+
+a {
+    color: rgb(238, 226, 237) !important;
+
+}
+
+.nav-pills .nav-link.active,
+.nav-pills .show>.nav-link,
+.nav-link:hover {
+    background: none;
+    text-decoration: rgb(238, 226, 237) underline;
+}
+
+.binary {
+    font-size: 0.75rem;
+}
+
+.btn-primary {
+    background-color: rgb(68, 3, 61);
+    border: rgb(68, 3, 61);
+    color: rgb(238, 226, 237);
+}
+
+.btn-outline-secondary {
+    background-color: rgb(248, 242, 248);
+    border: rgb(238, 226, 237);
+    color: rgb(68, 3, 61);
+}
+
+.btn-primary:hover {
+    background-color: rgb(44, 11, 41);
+}
+
+.btn-outline-secondary:hover {
+    background-color: rgb(109, 58, 104);
+
+}
+
+form {
+    border: none !important;
+}
+
+.footer {
+    background-color: rgb(68, 3, 61);
+
+}
+
+footer .text-muted {
+    color: rgb(248, 242, 248) !important;
+}
+
+.social {
+    background-color: rgb(248, 242, 248);
+    width: 162px;
+    border: 1px solid rgb(68, 3, 61);
+    border-radius: 15px;
+}
